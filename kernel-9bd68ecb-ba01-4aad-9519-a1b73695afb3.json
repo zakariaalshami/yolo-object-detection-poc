@@ -1,0 +1,12 @@
+{
+  "shell_port": 1,
+  "iopub_port": 2,
+  "stdin_port": 3,
+  "control_port": 4,
+  "hb_port": 5,
+  "ip": "/root/.local/share/jupyter/runtime/kernel-9bd68ecb-ba01-4aad-9519-a1b73695afb3-ipc",
+  "key": "",
+  "transport": "ipc",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": ""
+}
